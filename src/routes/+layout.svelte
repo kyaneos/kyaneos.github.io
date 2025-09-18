@@ -14,6 +14,8 @@
 		"|",
 		{ name: 'Music', href: `${base}/music/` }
 	];
+
+	const currentYear = new Date().getFullYear();
 </script>
 
 <svelte:head>
@@ -52,6 +54,12 @@
 	{@render children?.()}
 </main>
 
+<footer>
+	<div class="footer-content">
+		© {currentYear} Justin Moran
+	</div>
+</footer>
+
 <style>
 	.nav-name {
 		font-family: 'Average', Georgia, serif;
@@ -71,7 +79,7 @@
 	}
 
 	main {
-		min-height: calc(100vh - 60px);
+		min-height: calc(100vh - 100px);
 	}
 
 	.nav-separator {
@@ -81,5 +89,17 @@
 
 	.nav-links i {
 		margin-right: 0.25rem;
+	}
+
+	footer {
+		margin-top: 3rem;
+		padding: 1.5rem 0;
+		border-top: 1px solid #eee;
+	}
+
+	.footer-content {
+		text-align: center;
+		color: #666;
+		font-size: 0.9rem;
 	}
 </style>

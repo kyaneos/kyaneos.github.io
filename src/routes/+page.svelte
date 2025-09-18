@@ -9,11 +9,11 @@
 <div class="container">
 	<header class="header-section">
 		<h1>Justin Moran</h1>
-		<div class="subtitle">Research Scientist & Research Assistant</div>
+		<div class="subtitle">Research Scientist</div>
 
 		<div class="contact-info">
 			<a href="mailto:jmoran@ucsd.edu">
-				<i class="fas fa-envelope"></i> Email
+				<i class="fas fa-envelope"></i> jmoran@ucsd.edu
 			</a>
 			<a href="https://github.com/kyaneos" target="_blank" rel="noopener noreferrer">
 				<i class="fab fa-github"></i> GitHub
@@ -39,7 +39,7 @@
 		<h2>Current Positions</h2>
 		<div class="entry">
 			<div class="entry-title">Research Scientist</div>
-			<div class="entry-subtitle"><a href="https://eshinjolly.com/lab/" target="_blank" rel="noopener noreferrer">Sciminds Lab</a> @ UCSD (2025-Present)</div>
+			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Lab</a> @ UCSD (2025-Present)</div>
 			<div class="entry-description">
 				Lead projects on online cognition tools, including developing video games and web apps as platforms
 				for social cognition research.
@@ -66,7 +66,7 @@
 		<h2>Education</h2>
 		<div class="entry">
 			<div class="entry-title">Bachelor of Arts in Psychology</div>
-			<div class="entry-subtitle">University of California San Diego • 2020 - 2024</div>
+			<div class="entry-subtitle">University of California San Diego (2020-2024)</div>
 			<div class="entry-description">GPA: 3.82, Provost Honors</div>
 		</div>
 	</section>
@@ -85,7 +85,7 @@
 	<section class="section">
 		<h2>Creative Work</h2>
 		<p>
-			Beyond research, I create music of many different sorts, most recently and prominently for my jazz project <strong>Reflections</strong>,
+			Beyond research, I create and play music of many different sorts, most recently and prominently for my jazz project <strong>Reflections</strong>,
 			a reflection of my relationship with music and the people who I do and experience music with.
 		</p>
 	</section>
@@ -95,8 +95,8 @@
 		<ul class="news-list">
 			<li><strong>2025 June:</strong> Started official Research Scientist position at Sciminds lab</li>
 			<li><strong>2025 April:</strong> Began working with Eshin</li>
-			<li><strong>2024 June:</strong> Graduated from UCSD with B.A. in Psychology</li>
 			<li><strong>2024 June:</strong> Joined LIME lab as Research Assistant</li>
+			<li><strong>2024 June:</strong> Graduated from UCSD with B.A. in Psychology</li>
 			<li><strong>2024 March:</strong> Joined PSI lab as Research Assistant</li>
 			<li><strong>2023 January:</strong> Moved back to SD and joined LCHC as Content and Web Developer</li>
 			<li><strong>2022 May:</strong> Started studying with Dr. Oscar Baldelomar in the CDL in LA</li>
