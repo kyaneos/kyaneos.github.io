@@ -159,6 +159,7 @@
 				PI: Dr. Emma Geller, PhD.
 				<br>
 				Project Leads: Inez Zung, Alejandro Carranza, Hana Nguyen
+			</div>
 		</div>
 	</section>
 

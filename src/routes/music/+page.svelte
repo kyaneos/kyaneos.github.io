@@ -21,6 +21,7 @@
 
 		<div class="music-embed">
 			<iframe
+				title="Reflections Spotify Artist Page"
 				style="border-radius:12px"
 				src="https://open.spotify.com/embed/artist/1UN7iTnFbL0j652Aso5fI2?utm_source=generator&theme=0"
 				width="100%"
@@ -70,6 +71,7 @@
 	<h1>Other Released Music</h1>
 		<div class="music-embed">
 			<iframe
+				title="Other Released Music Spotify Playlist"
 				style="border-radius:12px"
 				src="https://open.spotify.com/embed/playlist/3n7RW7P0mcKyz0ZrkuAwia?utm_source=generator"
 				width="100%"
@@ -87,6 +89,7 @@
 	<h1>Unreleased Music</h1>
 		<div class="music-embed">
 			<iframe
+				title="Unreleased Music SoundCloud Player"
 				style="border-radius:12px"
 				src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/this_is_justin&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
 				width="100%"
@@ -104,12 +107,6 @@
 		margin: 2rem 0;
 	}
 
-	.music-embed h3 {
-		margin-bottom: 1rem;
-		font-size: 1.1rem;
-		color: var(--main-color);
-	}
-
 	.music-links {
 		display: flex;
 		flex-wrap: wrap;
@@ -122,10 +119,6 @@
 	.music-links span {
 		color: #999;
 		margin: 0 0.5rem;
-	}
-
-	.track-list {
-		margin-top: 1rem;
 	}
 
 	@media (max-width: 600px) {
