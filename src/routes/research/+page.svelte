@@ -106,7 +106,7 @@
 			<div class="publication-authors">Inez Zung, Jacquelyn Y. Tsui, Emma H. Geller, Caren M. Walker, Steven C. Pan</div>
 			<div class="publication-venue">Psychonomic Society Annual Meeting 2024</div>
 			<div class="publication-links">
-				<a href="/src/lib/assets/poster-pdf/1136_BreakingIOED_Psynom2024.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+				<a href="/poster-pdf/1136_BreakingIOED_Psynom2024.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 			</div>
 		</div>
 
@@ -115,7 +115,7 @@
 			<div class="publication-authors">Alejandro Carranza, Timothy C. Rickard, Emma H. Geller </div>
 			<div class="publication-venue">CogSci 2025</div>
 			<div class="publication-links">
-				<a href="/src/lib/assets/poster-pdf/alejandroJOL.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+				<a href="/poster-pdf/alejandroJOL.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 			</div>
 		</div>
 
@@ -124,7 +124,7 @@
 			<div class="publication-authors">Alan Lopez, Logan Fiorella, Celeste Pilegard</div>
 			<div class="publication-venue">Honors Thesis Poster</div>
 			<div class="publication-links">
-				<a href="/src/lib/assets/poster-pdf/AlanHonorsGesturesPoster.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+				<a href="/poster-pdf/AlanHonorsGesturesPoster.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 			</div>
 		</div>
 
@@ -133,7 +133,7 @@
 			<div class="publication-authors">Hana Nguyen, Inez Zung, Celeste Pilegard</div>
 			<div class="publication-venue">Honors Thesis Poster</div>
 			<div class="publication-links">
-				<a href="/src/lib/assets/poster-pdf/Willthisbeonthetest-InvestigatingSignalingtoDifferentKnowledge.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+				<a href="/poster-pdf/Willthisbeonthetest-InvestigatingSignalingtoDifferentKnowledge.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 			</div>
 		</div>
 	</section>
