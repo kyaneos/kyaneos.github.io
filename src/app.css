@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Average:wght@400&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--main-color: #2c3e50;
+	--accent-color: #3498db;
+	--text-color: #333;
+	--light-gray: #f8f9fa;
+	--border-color: #dee2e6;
+}
+
+@layer base {
+	html {
+		font-size: 16px;
+		line-height: 1.6;
+		color: var(--text-color);
+	}
+
+	body {
+		font-family: Georgia, serif;
+		color: var(--text-color);
+		background-color: white;
+		margin: 0;
+		padding: 0;
+	}
+
+	/* Typography matching CV */
+	h1 {
+		font-family: 'Average', Georgia, serif;
+		font-size: 2.5rem;
+		font-weight: 400;
+		margin-bottom: 0.5rem;
+		color: var(--main-color);
+		letter-spacing: 0.02em;
+	}
+
+	h2 {
+		font-family: 'Average', Georgia, serif;
+		font-size: 1.5rem;
+		font-weight: 400;
+		margin-top: 2rem;
+		margin-bottom: 1rem;
+		color: var(--main-color);
+		border-bottom: 1px solid var(--border-color);
+		padding-bottom: 0.25rem;
+	}
+
+	h3 {
+		font-family: Georgia, serif;
+		font-size: 1.1rem;
+		font-weight: 600;
+		margin-top: 1.5rem;
+		margin-bottom: 0.5rem;
+		color: var(--main-color);
+	}
+
+	h4 {
+		font-family: Georgia, serif;
+		font-size: 1rem;
+		font-weight: 600;
+		margin-top: 1rem;
+		margin-bottom: 0.5rem;
+		color: var(--text-color);
+	}
+
+	p {
+		margin-bottom: 1rem;
+		line-height: 1.6;
+	}
+
+	a {
+		color: var(--accent-color);
+		text-decoration: none;
+	}
+
+	a:hover {
+		text-decoration: underline;
+	}
+
+	/* Container */
+	.container {
+		max-width: 900px;
+		margin: 0 auto;
+		padding: 2rem 1.5rem;
+	}
+
+	/* CV-style sections */
+	.section {
+		margin-bottom: 2rem;
+	}
+
+	.entry {
+		margin-bottom: 1.5rem;
+	}
+
+	.entry-title {
+		font-weight: 600;
+		margin-bottom: 0.25rem;
+	}
+
+	.entry-subtitle {
+		color: #6c757d;
+		font-size: 0.95rem;
+		margin-bottom: 0.5rem;
+	}
+
+	.entry-description {
+		margin-top: 0.5rem;
+	}
+
+	/* Contact info styling */
+	.contact-info {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 1rem;
+		margin: 1rem 0;
+		font-size: 0.95rem;
+	}
+
+	.contact-info a {
+		color: var(--text-color);
+		display: flex;
+		align-items: center;
+		gap: 0.25rem;
+	}
+
+	.contact-info a:hover {
+		color: var(--accent-color);
+	}
+
+	/* Navigation */
+	nav {
+		background-color: var(--light-gray);
+		border-bottom: 1px solid var(--border-color);
+		padding: 1rem 0;
+	}
+
+	.nav-container {
+		max-width: 900px;
+		margin: 0 auto;
+		padding: 0 1.5rem;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.nav-links {
+		display: flex;
+		gap: 2rem;
+	}
+
+	.nav-links a {
+		color: var(--text-color);
+		font-weight: 500;
+		font-size: 0.95rem;
+	}
+
+	.nav-links a:hover {
+		color: var(--accent-color);
+	}
+
+	/* List styles */
+	ul {
+		list-style: none;
+		padding-left: 0;
+	}
+
+	ul.bullet-list {
+		list-style: disc;
+		padding-left: 1.5rem;
+	}
+
+	/* Publication styling */
+	.publication {
+		margin-bottom: 1.5rem;
+		padding-bottom: 1rem;
+		border-bottom: 1px solid #e9ecef;
+	}
+
+	.publication:last-child {
+		border-bottom: none;
+	}
+
+	.publication-title {
+		font-weight: 600;
+		margin-bottom: 0.25rem;
+		color: var(--main-color);
+	}
+
+	.publication-authors {
+		font-size: 0.95rem;
+		color: var(--text-color);
+		margin-bottom: 0.25rem;
+	}
+
+	.publication-venue {
+		font-size: 0.95rem;
+		font-style: italic;
+		color: #6c757d;
+	}
+
+	.publication-links {
+		margin-top: 0.5rem;
+		display: flex;
+		gap: 1rem;
+	}
+
+	.publication-links a {
+		font-size: 0.9rem;
+		color: var(--accent-color);
+	}
+
+	/* Dark mode removed - keeping it simple and clean */
+
+	/* Print styles */
+	@media print {
+		body {
+			font-size: 11pt;
+		}
+
+		.no-print {
+			display: none;
+		}
+
+		a {
+			color: var(--text-color);
+		}
+
+		h2 {
+			page-break-after: avoid;
+		}
+
+		.entry {
+			page-break-inside: avoid;
+		}
+	}
+}
