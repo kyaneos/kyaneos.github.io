@@ -16,6 +16,14 @@
 		<h2>Open Software</h2>
 
 		<div class="entry">
+			<div class="entry-title">Serial Reproduction Experiment</div>
+			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/researchmatch" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+			<div class="entry-description">
+				Built with Svelte 5 as front end, styled with Tailwind CSS 4 + DaisyUI, experimental logic handled by jsPsych 8.2+ with custom Svelte bridge, backend built with PocketBase cloud (real-time + storage), Prolific and SONA participant management, and deployed via Cloudflare Pages (auto git deploy).
+			</div>
+		</div>
+		https://github.com/kyaneos/telephone
+		<div class="entry">
 			<div class="entry-title">ResearchMatch</div>
 			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/researchmatch" target="_blank" rel="noopener noreferrer">GitHub</a></div>
 			<div class="entry-description">
