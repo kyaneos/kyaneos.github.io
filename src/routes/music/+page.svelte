@@ -8,7 +8,7 @@
 	<section class="section">
 		<p>
 			Beyond research and technology, I create music of many different sorts, most recently and prominently for my jazz project <strong>Reflections</strong>,
-			a reflection of my relationship with music and the people who I do and experience music with. I also play in a few other bands, including <strong>We The Commas</strong> and <strong>Josue Vazquez</strong>. 
+			a reflection of my relationship with music and the people who I do and experience music with. I also play in a few other bands, including for <strong>We The Commas</strong> and <strong>Josue Vazquez</strong>. 
 			I also produce music and do session work for other artists across many different genres, such as hip hop, trap, rnb, jazz, and neosoul.
 		</p>
 	</section>
@@ -60,9 +60,9 @@
 			a unique conversation of emotions, a living sound that is simultaneously intricate, genuine, and profoundly expressive.
 		</p>
 		<p>
-			This year culminates with the release of Reflections, the ambitious 16-track, selftitled debut album. A testament to the project's philosophy of connection, the
+			This year culminates with the release of Reflections, the ambitious 16-track, self titled debut album. A testament to the project's philosophy of connection, the
 			record features a wide array of friends and respected mentors; no single track has the same lineup of artists. The singles "Nublado," "Kamau," and "Last Night" are
-			available now, offering a glimpse into thealbum, with two more singles arriving before the full release at the end of 2025.
+			available now, offering a glimpse into the album, with two more singles arriving before the full release at the end of 2025.
 		</p>
 	</section>
 </div>
