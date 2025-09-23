@@ -142,10 +142,12 @@
 		<h2>Current Research</h2>
 		<div class="entry">
 			<div class="entry-title">Research Scientist</div>
-			<div class="entry-subtitle"><a href="https://eshinjolly.com/lab/" target="_blank" rel="noopener noreferrer">Sciminds Lab</a> @ UCSD (2025-Present)</div>
+			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a> @ UCSD (2025-Present)</div>
 			<div class="entry-description">
 				Leading projects developing video games and web applications as platforms for social cognition
 				research, focusing on user experience and experimental methods integration.
+				<br>
+				PI: Dr. Eshin Jolly, PhD.
 			</div>
 		</div>
 		<div class="entry">
@@ -159,7 +161,6 @@
 				PI: Dr. Emma Geller, PhD.
 				<br>
 				Project Leads: Inez Zung, Alejandro Carranza, Hana Nguyen
-			</div>
 		</div>
 	</section>
 

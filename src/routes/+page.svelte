@@ -29,17 +29,28 @@
 		<p>
 			Recent UCSD Psychology graduate passionate about applying cognitive, educational, and social psychology
 			to improve learning experiences and technologies. Currently a Research Scientist in Dr. Eshin Jolly's
-			Sciminds lab at UCSD, exploring ways to blend user experience, web design, and video games with
-			experimental methods and education technology, and a Research Assistant in the LIME lab, investigating
+			<a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a> at UCSD, exploring ways to blend user experience, web design, and video games with
+			experimental methods and education technology, and a Research Assistant in the <a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a>, investigating
 			cognition and learning across different mediums.
 		</p>
+	</section>
+
+	<section class="section">
+		<h2>Research Interests</h2>
+		<ul class="bullet-list">
+			<li>Cognitive Psychology & Education Technology</li>
+			<li>Social Cognition & User Experience</li>
+			<li>Learning Sciences & Experimental Methods</li>
+			<li>Web Development for Research Applications</li>
+			<li>Video Games as Research Platforms</li>
+		</ul>
 	</section>
 
 	<section class="section">
 		<h2>Current Positions</h2>
 		<div class="entry">
 			<div class="entry-title">Research Scientist</div>
-			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Lab</a> @ UCSD (2025-Present)</div>
+			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a> @ UCSD (2025-Present)</div>
 			<div class="entry-description">
 				Lead projects on online cognition tools, including developing video games and web apps as platforms
 				for social cognition research.
@@ -72,17 +83,6 @@
 	</section>
 
 	<section class="section">
-		<h2>Research Interests</h2>
-		<ul class="bullet-list">
-			<li>Cognitive Psychology & Education Technology</li>
-			<li>Social Cognition & User Experience</li>
-			<li>Learning Sciences & Experimental Methods</li>
-			<li>Web Development for Research Applications</li>
-			<li>Video Games as Research Platforms</li>
-		</ul>
-	</section>
-
-	<section class="section">
 		<h2>Creative Work</h2>
 		<p>
 			Beyond research, I create and play music of many different sorts, most recently and prominently for my jazz project <strong>Reflections</strong>,
@@ -93,13 +93,13 @@
 	<section class="section">
 		<h2>Recent News</h2>
 		<ul class="news-list">
-			<li><strong>2025 June:</strong> Started official Research Scientist position at Sciminds lab</li>
+			<li><strong>2025 June:</strong> Started official Research Scientist position at <a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a></li>
 			<li><strong>2025 April:</strong> Began working with Eshin</li>
-			<li><strong>2024 June:</strong> Joined LIME lab as Research Assistant</li>
+			<li><strong>2024 June:</strong> Joined <a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a> as Research Assistant</li>
 			<li><strong>2024 June:</strong> Graduated from UCSD with B.A. in Psychology</li>
-			<li><strong>2024 March:</strong> Joined PSI lab as Research Assistant</li>
-			<li><strong>2023 January:</strong> Moved back to SD and joined LCHC as Content and Web Developer</li>
-			<li><strong>2022 May:</strong> Started studying with Dr. Oscar Baldelomar in the CDL in LA</li>
+			<li><strong>2024 March:</strong> Joined <a href="https://pilegard.ucsd.edu/psilab" target="_blank" rel="noopener noreferrer">PSI Lab</a> as Research Assistant</li>
+			<li><strong>2023 January:</strong> Moved back to San Diego and joined <a href="https://lchcautobio.ucsd.edu/justin-moran/" target="_blank" rel="noopener noreferrer">Laboratory of Comparative Human Cognition</a> as Content and Web Developer</li>
+			<li><strong>2022 May:</strong> Started studying with Dr. Oscar Baldelomar in the <a href="https://sites.google.com/biola.edu/culture-and-development-lab/home" target="_blank" rel="noopener noreferrer">Cultural and Social Development Lab</a> in LA</li>
 
 
 		</ul>
