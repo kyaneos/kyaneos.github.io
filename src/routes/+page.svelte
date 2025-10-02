@@ -27,7 +27,7 @@
 	<section class="section">
 		<h2>About</h2>
 		<p>
-			Recent UCSD Psychology graduate passionate about applying cognitive, educational, and social psychology
+			Researcher passionate about applying cognitive, educational, and social psychology
 			to improve learning experiences and technologies. Currently a Research Scientist in Dr. Eshin Jolly's
 			<a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a> at UCSD, exploring ways to blend user experience, web design, and video games with
 			experimental methods and education technology, and a Research Assistant in the <a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a>, investigating
