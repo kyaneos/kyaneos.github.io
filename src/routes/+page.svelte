@@ -27,10 +27,11 @@
 	<section class="section">
 		<h2>About</h2>
 		<p>
-			Researcher passionate about applying cognitive, educational, and social psychology
-			to improve learning experiences and technologies. Currently a Research Scientist in Dr. Eshin Jolly's
-			<a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a> at UCSD, exploring ways to blend user experience, web design, and video games with
-			experimental methods and education technology, and a Research Assistant in the <a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a>, investigating
+			Researcher passionate about building computational models in cognitive, educational, and social psychology
+			 to understand and improve learning experiences and technologies. Currently a Research Scientist in Dr. Eshin Jolly's
+			<a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a> at UCSD, exploring ways to blend 
+			user experience, web design, video games, and AI with experimental methods, learning technology, and computational modeling, and a 
+			Research Assistant in Dr. Emma Geller’s <a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a>, investigating
 			cognition and learning across different mediums.
 		</p>
 	</section>
@@ -52,8 +53,10 @@
 			<div class="entry-title">Research Scientist</div>
 			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a> @ UCSD (2025-Present)</div>
 			<div class="entry-description">
-				Lead projects on online cognition tools, including developing video games and web apps as platforms
-				for social cognition research.
+				Lead projects to build computational models to understand and predict learning mechanisms, and to develop online platforms 
+				for better and more robust research. Create and utilize game platforms as simulated environments for large multiplayer-scale 
+				studies on cognition, behavior, learning tools, social dynamics, and collaborative learning. Develop general tools, frameworks, 
+				and templates to make the research process technically easier and more accessible.
 				<br>
 				PI: Eshin Jolly, PhD.
 			</div>

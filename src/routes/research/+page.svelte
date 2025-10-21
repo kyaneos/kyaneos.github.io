@@ -51,9 +51,12 @@
 
 	<section class="section">
 		<p>
-			My research applies cognitive, educational, and social psychology to improve learning experiences
-			and technologies. I focus on blending user experience, web design, and video games with experimental
-			methods and education technology to better understand cognition and learning across different mediums.
+			My research aims to apply cognitive, educational, social psychology, and user experience design to improve learning experiences
+			and technologies. I build computational models to predict the mechanisms of learning in social and educational contexts,
+			with a focus on reputation, knowledge structures, and collective intelligence, and I engineer online platforms required to conduct 
+			this research at scale. I develop web applications and multiplayer games for large-scale, naturalistic studies of social dynamics 
+			and collaborative learning. These platforms are built to both serve my specific research questions and to function as generalizable 
+			tools that make online experimental methods more accessible and efficient for other researchers.
 		</p>
 	</section>
 
@@ -144,8 +147,10 @@
 			<div class="entry-title">Research Scientist</div>
 			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a> @ UCSD (2025-Present)</div>
 			<div class="entry-description">
-				Leading projects developing video games and web applications as platforms for social cognition
-				research, focusing on user experience and experimental methods integration.
+				Lead projects to build computational models to understand and predict learning mechanisms, and to develop online platforms 
+				for better and more robust research. Create and utilize game platforms as simulated environments for large multiplayer-scale 
+				studies on cognition, behavior, learning tools, social dynamics, and collaborative learning. Develop general tools, frameworks, 
+				and templates to make the research process technically easier and more accessible.
 				<br>
 				PI: Dr. Eshin Jolly, PhD.
 			</div>
