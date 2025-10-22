@@ -133,7 +133,7 @@
 
 		<div class="publication">
 			<div class="publication-title">Will this be on the test? - Investigating Signaling to Different Knowledge</div>
-			<div class="publication-authors">Hana Nguyen, Inez Zung, Celeste Pilegard</div>
+			<div class="publication-authors">Hana Nguyen, Inez Zung, Emma Geller</div>
 			<div class="publication-venue">Honors Thesis Poster</div>
 			<div class="publication-links">
 				<a href="/poster-pdf/Willthisbeonthetest-InvestigatingSignalingtoDifferentKnowledge.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
