@@ -81,7 +81,7 @@
 		<div class="entry">
 			<div class="entry-title">Bachelor of Arts in Psychology</div>
 			<div class="entry-subtitle">University of California San Diego (2020-2024)</div>
-			<div class="entry-description">GPA: 3.82, Provost Honors</div>
+			<div class="entry-description">GPA: 3.77, Provost Honors</div>
 		</div>
 	</section>
 
