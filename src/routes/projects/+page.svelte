@@ -41,6 +41,17 @@
 		</div>
 
 		<div class="entry">
+			<div class="entry-title">Color Vision Deficiency Testing Framework</div>
+			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/cvd-sim" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+			<div class="entry-description">
+				Web application for testing color vision deficiency using adaptive Bayesian inference and multi-stage calibration. 
+				Supports 9 CVD types with automatic severity estimation, personalized image conversion, and comprehensive results visualization. 
+				Implements research-backed algorithms from Machado et al. (2009) physiologically-accurate CVD simulation. 
+				Built with Svelte 5, SvelteKit, Tailwind CSS 4, DaisyUI, and PocketBase for user authentication and database.
+			</div>
+		</div>
+
+		<div class="entry">
 			<div class="entry-title">DataCollect Pro</div>
 			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/datacollect-pro" target="_blank" rel="noopener noreferrer">GitHub</a></div>
 			<div class="entry-description">
