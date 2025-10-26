@@ -24,7 +24,7 @@
 		</div>
 		<div class="entry">
 			<div class="entry-title">ResearchMatch</div>
-			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/researchmatch" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/researchmatch" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://kyaneos.github.io/researchmatch/" target="_blank" rel="noopener noreferrer">Demo</a></div>
 			<div class="entry-description">
 				Web platform designed to connect academic researchers with content creators, facilitating collaborations that make scientific research more accessible to the public. Features include intelligent matching algorithms, collaborative messaging tools, and comprehensive analytics dashboards for tracking research impact and outreach effectiveness. Implements advanced search functionality, real-time collaboration features, and responsive design optimized for both desktop and mobile use. Built with Svelte 5 and Vite 7 for the frontend, Supabase for database integration, and GitHub Actions for CI/CD deployment. The platform includes both a demo version showcasing the concept and a production-ready alpha version with full authentication and database connectivity.
 			</div>
@@ -32,7 +32,7 @@
 
 		<div class="entry">
 			<div class="entry-title">Scientific Method Learning Tool</div>
-			<div class="entry-subtitle">2025 • <a href="https://scientificlearningtool.info/" target="_blank" rel="noopener noreferrer">Website</a></div>
+			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/scientific-learning-tool" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://kyaneos.github.io/scientific-learning-tool/" target="_blank" rel="noopener noreferrer">Website</a></div>
 			<div class="entry-description">
 				Open source educational tool utilizing dual processing theory to enhance learning about the scientific method, research
 				methods, and cognitive psychology. Combines visual and verbal learning approaches for improved
@@ -42,7 +42,7 @@
 
 		<div class="entry">
 			<div class="entry-title">Color Vision Deficiency Testing Framework</div>
-			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/cvd-sim" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/cvd-sim" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://kyaneos.github.io/cvd-sim" target="_blank" rel="noopener noreferrer">Web App</a></div>
 			<div class="entry-description">
 				Web application for testing color vision deficiency using adaptive Bayesian inference and multi-stage calibration. 
 				Supports 9 CVD types with automatic severity estimation, personalized image conversion, and comprehensive results visualization. 
@@ -53,7 +53,7 @@
 
 		<div class="entry">
 			<div class="entry-title">DataCollect Pro</div>
-			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/datacollect-pro" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/datacollect-pro" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://kyaneos.github.io/datacollect-pro/" target="_blank" rel="noopener noreferrer">Demo Web App</a></div>
 			<div class="entry-description">
 				Online data collection platform for researchers featuring survey management, user profiles,
 				data visualization, and accessibility-compliant design. Built with Svelte 5, SvelteKit 2.0, CSS, and Vite.
@@ -62,7 +62,7 @@
 
 		<div class="entry">
 			<div class="entry-title">San Diego Foraging Pokedex</div>
-			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/sd-foraging-pokedex" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos/sd-foraging-pokedex" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://kyaneos.github.io/sd-foraging-pokedex/" target="_blank" rel="noopener noreferrer">Web App</a></div>
 			<div class="entry-description">
 				Interactive web application serving as a Pokedex-inspired guide to indigenous forageable foods
 				found in the San Diego area. Features detailed plant entries including descriptions, identification
@@ -72,7 +72,7 @@
 
 		<div class="entry">
 			<div class="entry-title">Pleiades Peripheral Vision Simulation</div>
-			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+			<div class="entry-subtitle">2025 • <a href="https://github.com/kyaneos" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://kyaneos.github.io/pleiades/" target="_blank" rel="noopener noreferrer">Simulation</a></div>
 			<div class="entry-description">
 				Web simulation visualizing the Pleiades star cluster and the peripheral vision effect. Demonstrates
 				how faint objects can appear clearer in peripheral vision using interactive mouse/touch input.
