@@ -8,19 +8,24 @@
 
 <div class="container">
 	<header class="header-section">
-		<h1>Justin Moran</h1>
-		<div class="subtitle">Research Scientist</div>
+		<div class="header-content">
+			<img src="{base}/headshot.jpg" alt="Justin Moran" class="headshot" />
+			<div class="header-text">
+				<h1>Justin Moran</h1>
+				<div class="subtitle">Research Scientist</div>
 
-		<div class="contact-info">
-			<a href="mailto:jmoran@ucsd.edu">
-				<i class="fas fa-envelope"></i> jmoran@ucsd.edu
-			</a>
-			<a href="https://github.com/kyaneos" target="_blank" rel="noopener noreferrer">
-				<i class="fab fa-github"></i> GitHub
-			</a>
-			<a href="https://www.linkedin.com/in/thisisjustinmoran/" target="_blank" rel="noopener noreferrer">
-				<i class="fab fa-linkedin"></i> LinkedIn
-			</a>
+				<div class="contact-info">
+					<a href="mailto:jmoran@ucsd.edu">
+						<i class="fas fa-envelope"></i> jmoran@ucsd.edu
+					</a>
+					<a href="https://github.com/kyaneos" target="_blank" rel="noopener noreferrer">
+						<i class="fab fa-github"></i> GitHub
+					</a>
+					<a href="https://www.linkedin.com/in/thisisjustinmoran/" target="_blank" rel="noopener noreferrer">
+						<i class="fab fa-linkedin"></i> LinkedIn
+					</a>
+				</div>
+			</div>
 		</div>
 	</header>
 
@@ -111,10 +116,32 @@
 
 <style>
 	.header-section {
-		text-align: center;
 		margin-bottom: 3rem;
 		padding-bottom: 2rem;
 		border-bottom: 1px solid var(--border-color);
+	}
+
+	.header-content {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		gap: 2rem;
+	}
+
+	.headshot {
+		width: auto;
+		height: auto;
+		max-height: 200px;
+		object-fit: contain;
+		flex-shrink: 0;
+		margin-top: 1rem;
+	}
+
+	.header-text {
+		text-align: center;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
 	}
 
 	.subtitle {
@@ -134,6 +161,18 @@
 		margin-right: 0.5rem;
 		width: 16px;
 		text-align: center;
+	}
+
+	/* Responsive layout for mobile */
+	@media (max-width: 768px) {
+		.header-content {
+			flex-direction: column;
+			gap: 1.5rem;
+		}
+
+		.headshot {
+			max-width: 200px;
+		}
 	}
 
 	.news-list {
