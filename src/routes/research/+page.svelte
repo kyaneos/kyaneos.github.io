@@ -102,10 +102,31 @@
 	</section>
 
 	<section class="section">
-		<h2>Posters/Poster Contributions</h2>
+		<div style="display: flex; align-items: baseline; gap: 1rem; margin-bottom: 1.5rem;">
+			<h2 style="margin-bottom: 0;">Posters/Poster Contributions</h2>
+			<span class="publication-venue" style="font-style: italic;">*: Posters ; #: Poster Contributions</span>
+		</div>
 
 		<div class="publication">
-			<div class="publication-title">Breaking the IOED: Effects of Generating Explanations on Metacognitive Monitoring and Control</div>
+			<div class="publication-title">#A Redundant Redundancy Principle? Examining the Redundancy Principle Through Cognitive Load</div>
+			<div class="publication-authors">Alejandro Carranza and Emma H. Geller</div>
+			<div class="publication-venue">Psychonomic Society Annual Meeting 2025</div>
+			<div class="publication-links">
+				<a href="/poster-pdf/alejandro-redundancy-principle.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+			</div>
+		</div>
+
+		<div class="publication">
+			<div class="publication-title">#Effects of Generating Self-Explanations on Self-Monitoring and Study Plans</div>
+			<div class="publication-authors">Jacquelyn Tsui, Inez Zung, Emma H. Geller</div>
+			<div class="publication-venue">Psychonomic Society Annual Meeting 2025</div>
+			<div class="publication-links">
+				<a href="/poster-pdf/Jacquelyn+Tsui+Thesis+poster+2024.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+			</div>
+		</div>
+
+		<div class="publication">
+			<div class="publication-title">#Breaking the IOED: Effects of Generating Explanations on Metacognitive Monitoring and Control</div>
 			<div class="publication-authors">Inez Zung, Jacquelyn Y. Tsui, Emma H. Geller, Caren M. Walker, Steven C. Pan</div>
 			<div class="publication-venue">Psychonomic Society Annual Meeting 2024</div>
 			<div class="publication-links">
@@ -114,7 +135,7 @@
 		</div>
 
 		<div class="publication">
-			<div class="publication-title">Are You Sure About That? The Impact of Semantic Relatedness on Learning Through Testing, JOLs, and Passive Restudy</div>
+			<div class="publication-title">#Are You Sure About That? The Impact of Semantic Relatedness on Learning Through Testing, JOLs, and Passive Restudy</div>
 			<div class="publication-authors">Alejandro Carranza, Timothy C. Rickard, Emma H. Geller </div>
 			<div class="publication-venue">CogSci 2025</div>
 			<div class="publication-links">
@@ -123,7 +144,7 @@
 		</div>
 
 		<div class="publication">
-			<div class="publication-title">Using Gestures to Signal a Causal Lesson Structure</div>
+			<div class="publication-title">#Using Gestures to Signal a Causal Lesson Structure</div>
 			<div class="publication-authors">Alan Lopez, Logan Fiorella, Celeste Pilegard</div>
 			<div class="publication-venue">Honors Thesis Poster</div>
 			<div class="publication-links">
@@ -132,7 +153,7 @@
 		</div>
 
 		<div class="publication">
-			<div class="publication-title">Will this be on the test? - Investigating Signaling to Different Knowledge</div>
+			<div class="publication-title">#Will this be on the test? - Investigating Signaling to Different Knowledge</div>
 			<div class="publication-authors">Hana Nguyen, Inez Zung, Emma Geller</div>
 			<div class="publication-venue">Honors Thesis Poster</div>
 			<div class="publication-links">
@@ -145,7 +166,7 @@
 		<h2>Current Research</h2>
 		<div class="entry">
 			<div class="entry-title">Research Scientist</div>
-			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a> @ UCSD (2025-Present)</div>
+			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD (2025-Present)</div>
 			<div class="entry-description">
 				Lead projects to build computational models to understand and predict learning mechanisms, and to develop online platforms 
 				for better and more robust research. Create and utilize game platforms as simulated environments for large multiplayer-scale 
@@ -166,6 +187,7 @@
 				PI: Dr. Emma Geller, PhD.
 				<br>
 				Project Leads: Inez Zung, Alejandro Carranza, Hana Nguyen
+			</div>
 		</div>
 	</section>
 
