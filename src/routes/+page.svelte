@@ -34,7 +34,7 @@
 		<p>
 			Researcher passionate about building computational models in cognitive, educational, and social psychology
 			 to understand and improve learning experiences and technologies. Currently a Research Scientist in Dr. Eshin Jolly's
-			<a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a> at UCSD, exploring ways to blend 
+			<a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> at UCSD, exploring ways to blend 
 			user experience, web design, video games, and AI with experimental methods, learning technology, and computational modeling, and a 
 			Research Assistant in Dr. Emma Geller’s <a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a>, investigating
 			cognition and learning across different mediums.
@@ -44,6 +44,7 @@
 	<section class="section">
 		<h2>Research Interests</h2>
 		<ul class="bullet-list">
+			<li>Computational Modeling</li>
 			<li>Cognitive Psychology & Education Technology</li>
 			<li>Social Cognition & User Experience</li>
 			<li>Learning Sciences & Experimental Methods</li>

@@ -36,7 +36,7 @@
 			<div class="entry-description">
 				Open source educational tool utilizing dual processing theory to enhance learning about the scientific method, research
 				methods, and cognitive psychology. Combines visual and verbal learning approaches for improved
-				understanding and retention. Built with HTML, CSS, JavaScript, and Python.
+				understanding and retention. Built with HTML, CSS, JavaScript, Python, and PocketBase for user authentication and database.
 			</div>
 		</div>
 
