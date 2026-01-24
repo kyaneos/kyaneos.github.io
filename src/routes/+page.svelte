@@ -35,8 +35,8 @@
 			Researcher passionate about building computational models in cognitive, educational, and social psychology
 			 to understand and improve learning experiences and technologies. Currently a Research Scientist in Dr. Eshin Jolly's
 			<a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> at UCSD, exploring ways to blend 
-			user experience, web design, video games, and AI with experimental methods, learning technology, and computational modeling, and a 
-			Research Assistant in Dr. Emma Geller’s <a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a>, investigating
+			user experience, web design, video games, and AI with experimental methods, learning technology, and computational modeling, and an 
+			occasional Research Assistant in Dr. Emma Geller’s <a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a>, investigating
 			cognition and learning across different mediums.
 		</p>
 	</section>
@@ -45,11 +45,12 @@
 		<h2>Research Interests</h2>
 		<ul class="bullet-list">
 			<li>Computational Modeling</li>
-			<li>Cognitive Psychology & Education Technology</li>
-			<li>Social Cognition & User Experience</li>
-			<li>Learning Sciences & Experimental Methods</li>
+			<li>Cognitive Psychology</li>
+			<li>Education Technology</li>
+			<li>Social Cognition</li>
+			<li>User Experience</li>
 			<li>Web Development for Research Applications</li>
-			<li>Video Games as Research Platforms</li>
+			<li>Video Games and Simulations as Research Platforms</li>
 		</ul>
 	</section>
 
@@ -102,6 +103,7 @@
 	<section class="section">
 		<h2>Recent News</h2>
 		<ul class="news-list">
+			<li><strong>2025 November:</strong> Traveled to Denver, Colorado for the Psychonomic Society Annual Meeting</li>
 			<li><strong>2025 June:</strong> Started official Research Scientist position at <a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a></li>
 			<li><strong>2025 April:</strong> Began working with Eshin</li>
 			<li><strong>2024 June:</strong> Joined <a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a> as Research Assistant</li>
