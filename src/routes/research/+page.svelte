@@ -53,7 +53,7 @@
 		<p>
 			My research aims to apply cognitive, educational, social psychology, and user experience design to improve learning experiences
 			and technologies. I build computational models to predict the mechanisms of learning in social and educational contexts,
-			with a focus on reputation, knowledge structures, and collective intelligence, and I engineer online platforms required to conduct 
+			with a focus on Theory of Mind,reputation, knowledge structures, and collaboration, and I engineer online platforms required to conduct 
 			this research at scale. I develop web applications and multiplayer games for large-scale, naturalistic studies of social dynamics 
 			and collaborative learning. These platforms are built to both serve my specific research questions and to function as generalizable 
 			tools that make online experimental methods more accessible and efficient for other researchers.
