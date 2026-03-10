@@ -58,7 +58,7 @@
 		<h2>Current Positions</h2>
 		<div class="entry">
 			<div class="entry-title">Research Scientist</div>
-			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a> @ UCSD (2025-Present)</div>
+			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD (2025-Present)</div>
 			<div class="entry-description">
 				Lead projects to build computational models to understand and predict learning mechanisms, and to develop online platforms 
 				for better and more robust research. Create and utilize game platforms as simulated environments for large multiplayer-scale 
@@ -105,10 +105,10 @@
 		<ul class="news-list">
 			<li><strong>2026 April:</strong> Attended the Social and Affective Neuroscience Conference (SANS) in San Diego, California</li>
 			<li><strong>2026 March:</strong> Attended and presented at the Virtual Shared Reality Conference</li>
-			<li><strong>2026 March:</strong> Accepted into and commited to the PhD program in ExperimentalPsychology at UCSD under Dr. Eshin Jolly</li>
+			<li><strong>2026 March:</strong> Accepted into and commited to the PhD program in ExperimentalPsychology at UCSD under <a href="https://eshinjolly.com/" target="_blank" rel="noopener noreferrer">Dr. Eshin Jolly</a></li>
 			<li><strong>2025 November:</strong> Traveled to Denver, Colorado for the Psychonomic Society Annual Meeting</li>
-			<li><strong>2025 June:</strong> Started official Research Scientist position at <a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">Sciminds Research Studio</a></li>
-			<li><strong>2025 April:</strong> Began working with Eshin</li>
+			<li><strong>2025 June:</strong> Started official Research Scientist position at <a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a></li>
+			<li><strong>2025 April:</strong> Began working with <a href="https://eshinjolly.com/" target="_blank" rel="noopener noreferrer">Dr. Eshin Jolly</a></li>
 			<li><strong>2024 June:</strong> Joined <a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a> as Research Assistant</li>
 			<li><strong>2024 June:</strong> Graduated from UCSD with B.A. in Psychology</li>
 			<li><strong>2024 March:</strong> Joined <a href="https://pilegard.ucsd.edu/psilab" target="_blank" rel="noopener noreferrer">PSI Lab</a> as Research Assistant</li>
