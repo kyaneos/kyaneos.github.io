@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Justin Moran</title>
+	<title>Justin Bonagura Moran</title>
 </svelte:head>
 
 <div class="container">
@@ -11,7 +11,7 @@
 		<div class="header-content">
 			<img src="{base}/headshot.jpg" alt="Justin Moran" class="headshot" />
 			<div class="header-text">
-				<h1>Justin Moran</h1>
+				<h1>Justin Bonagura Moran</h1>
 				<div class="subtitle">Research Scientist</div>
 
 				<div class="contact-info">
