@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Projects - Justin Moran</title>
+	<title>Projects - Justin Bonagura Moran</title>
 </svelte:head>
 
 <div class="container">

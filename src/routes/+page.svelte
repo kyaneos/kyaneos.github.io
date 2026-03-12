@@ -9,7 +9,7 @@
 <div class="container">
 	<header class="header-section">
 		<div class="header-content">
-			<img src="{base}/headshot.jpg" alt="Justin Moran" class="headshot" />
+			<img src="{base}/headshot.jpg" alt="Justin Bonagura Moran" class="headshot" />
 			<div class="header-text">
 				<h1>Justin Bonagura Moran</h1>
 				<div class="subtitle">Research Scientist</div>

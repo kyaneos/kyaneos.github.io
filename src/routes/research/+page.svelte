@@ -43,7 +43,7 @@
 </script>
 
 <svelte:head>
-	<title>Research - Justin Moran</title>
+	<title>Research - Justin Bonagura Moran</title>
 </svelte:head>
 
 <div class="container">

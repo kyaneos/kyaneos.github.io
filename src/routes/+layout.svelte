@@ -19,15 +19,15 @@
 </script>
 
 <svelte:head>
-	<title>Justin Moran</title>
-	<meta name="description" content="Justin Moran - Cognitive Science PhD Student at UC San Diego" />
+	<title>Justin Bonagura Moran</title>
+	<meta name="description" content="Justin Bonagura Moran - Experimental Psychology PhD Student at UC San Diego" />
 	<link rel="icon" href="/favicon.ico" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 </svelte:head>
 
 <nav>
 	<div class="nav-container">
-		<a href={`${base}/`} class="nav-name">Justin Moran</a>
+		<a href={`${base}/`} class="nav-name">Justin Bonagura Moran</a>
 		<div class="nav-links">
 			{#each navigation as item}
 				{#if item === "|"}
@@ -56,7 +56,7 @@
 
 <footer>
 	<div class="footer-content">
-		© {currentYear} Justin Moran
+		© {currentYear} Justin Bonagura Moran
 	</div>
 </footer>
 
