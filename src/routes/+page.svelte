@@ -104,8 +104,8 @@
 		<h2>Recent News</h2>
 		<ul class="news-list">
 			<li><strong>2026 April:</strong> Attended the Social and Affective Neuroscience Conference (SANS) in San Diego, California</li>
-			<li><strong>2026 March:</strong> Attended and presented at the Virtual Shared Reality Conference</li>
-			<li><strong>2026 March:</strong> Accepted into and commited to the PhD program in ExperimentalPsychology at UCSD under <a href="https://eshinjolly.com/" target="_blank" rel="noopener noreferrer">Dr. Eshin Jolly</a></li>
+			<li><strong>2026 March:</strong> Attended and <a href="https://youtu.be/J0S8UEc-iO8?t=4650" target="_blank" rel="noopener noreferrer">presented</a> at the Virtual Shared Reality Conference</li>
+			<li><strong>2026 March:</strong> Accepted into and committed to the PhD program in Experimental Psychology at UCSD under <a href="https://eshinjolly.com/" target="_blank" rel="noopener noreferrer">Dr. Eshin Jolly</a></li>
 			<li><strong>2025 November:</strong> Traveled to Denver, Colorado for the Psychonomic Society Annual Meeting</li>
 			<li><strong>2025 June:</strong> Started official Research Scientist position at <a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a></li>
 			<li><strong>2025 April:</strong> Began working with <a href="https://eshinjolly.com/" target="_blank" rel="noopener noreferrer">Dr. Eshin Jolly</a></li>
