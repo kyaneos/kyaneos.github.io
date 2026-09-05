@@ -24,6 +24,12 @@
 		background-color: white;
 		margin: 0;
 		padding: 0;
+		overflow-wrap: break-word;
+	}
+
+	img,
+	iframe {
+		max-width: 100%;
 	}
 
 	/* Typography matching CV */
@@ -142,13 +148,17 @@
 		margin: 0 auto;
 		padding: 0 1.5rem;
 		display: flex;
+		flex-wrap: wrap;
 		justify-content: space-between;
 		align-items: center;
+		gap: 0.5rem 1.5rem;
 	}
 
 	.nav-links {
 		display: flex;
-		gap: 2rem;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.5rem 2rem;
 	}
 
 	.nav-links a {
@@ -210,6 +220,38 @@
 	.publication-links a {
 		font-size: 0.9rem;
 		color: var(--accent-color);
+	}
+
+	/* Mobile */
+	@media (max-width: 768px) {
+		.container {
+			padding: 1.5rem 1rem;
+		}
+
+		.nav-container {
+			padding: 0 1rem;
+			flex-direction: column;
+			align-items: flex-start;
+		}
+
+		.nav-links {
+			gap: 0.5rem 1.25rem;
+		}
+	}
+
+	@media (max-width: 480px) {
+		h1 {
+			font-size: 1.9rem;
+		}
+
+		h2 {
+			font-size: 1.3rem;
+			margin-top: 1.5rem;
+		}
+
+		.nav-links {
+			font-size: 0.9rem;
+		}
 	}
 
 	/* Dark mode removed - keeping it simple and clean */

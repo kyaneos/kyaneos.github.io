@@ -12,7 +12,7 @@
 			<img src="{base}/headshot.jpg" alt="Justin Bonagura Moran" class="headshot" />
 			<div class="header-text">
 				<h1>Justin Bonagura Moran</h1>
-				<div class="subtitle">Research Scientist</div>
+				<div class="subtitle">PhD Student, Experimental Psychology</div>
 
 				<div class="contact-info">
 					<a href="mailto:jmoran@ucsd.edu">
@@ -33,10 +33,9 @@
 		<h2>About</h2>
 		<p>
 			Researcher passionate about using interactive technology and computational models 
-			to understand how people think, learn, and share information. Currently a Research Scientist 
-			in Dr. Eshin Jolly's <a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> at UCSD, 
-			I blend naturalistic experimental methods with web development, simulations, and game design to study social cognition. 
-			I will be continuing this work as an Experimental Psychology PhD student at UCSD starting in October 2026.
+			to understand how people think, learn, and share information. Currently a PhD student 
+			in Dr. Eshin Jolly's <a href="https://sciminds.studio/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> at UCSD. 
+			I blend naturalistic experimental methods with web development, simulations, and game design to study social cognition.
 		</p>
 	</section>
 
@@ -57,28 +56,12 @@
 	<section class="section">
 		<h2>Current Positions</h2>
 		<div class="entry">
-			<div class="entry-title">Research Scientist</div>
-			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD (2025-Present)</div>
+			<div class="entry-title">PhD, Experimental Psychology</div>
+			<div class="entry-subtitle">University of California San Diego (2026-Present)</div>
 			<div class="entry-description">
-				Lead projects to build computational models to understand and predict learning mechanisms, and to develop online platforms 
-				for better and more robust research. Create and utilize game platforms as simulated environments for large multiplayer-scale 
-				studies on cognition, behavior, learning tools, social dynamics, and collaborative learning. Develop general tools, frameworks, 
-				and templates to make the research process technically easier and more accessible.
+				Advisor: Eshin Jolly, PhD, Cognitive Neuroscience, Assistant Professor of Psychology - UC San Diego
 				<br>
-				PI: Eshin Jolly, PhD.
-			</div>
-		</div>
-		<div class="entry">
-			<div class="entry-title">Research Assistant</div>
-			<div class="entry-subtitle"><a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a> @ UCSD (2024-Present)</div>
-			<div class="entry-description">
-				Working with graduate students and honors students on multiple research projects investigating
-				preconceptions and learning, judgements of learning during restudy vs. retrieval practice,
-				dual theory of processing in simulated environments, and subsumptive learning within STEM contexts.
-				<br>
-				PI: Dr. Emma Geller, PhD.
-				<br>
-				Project Leads: Inez Zung, Alejandro Carranza, Hana Nguyen
+				<a href="https://sciminds.studio/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD
 			</div>
 		</div>
 	</section>
@@ -103,11 +86,12 @@
 	<section class="section">
 		<h2>Recent News</h2>
 		<ul class="news-list">
+			<li><strong>2026 September:</strong> Started PhD in Experimental Psychology at UCSD under <a href="https://eshinjolly.com/" target="_blank" rel="noopener noreferrer">Dr. Eshin Jolly</a> at <a href="https://sciminds.studio/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a></li>
 			<li><strong>2026 April:</strong> Attended the Social and Affective Neuroscience Conference (SANS) in San Diego, California</li>
 			<li><strong>2026 March:</strong> Attended and <a href="https://youtu.be/J0S8UEc-iO8?t=4650" target="_blank" rel="noopener noreferrer">presented</a> at the Virtual Shared Reality Conference</li>
 			<li><strong>2026 March:</strong> Accepted into and committed to the PhD program in Experimental Psychology at UCSD under <a href="https://eshinjolly.com/" target="_blank" rel="noopener noreferrer">Dr. Eshin Jolly</a></li>
 			<li><strong>2025 November:</strong> Traveled to Denver, Colorado for the Psychonomic Society Annual Meeting</li>
-			<li><strong>2025 June:</strong> Started official Research Scientist position at <a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a></li>
+			<li><strong>2025 June:</strong> Started official Research Scientist position at <a href="https://sciminds.studio/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a></li>
 			<li><strong>2025 April:</strong> Began working with <a href="https://eshinjolly.com/" target="_blank" rel="noopener noreferrer">Dr. Eshin Jolly</a></li>
 			<li><strong>2024 June:</strong> Joined <a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a> as Research Assistant</li>
 			<li><strong>2024 June:</strong> Graduated from UCSD with B.A. in Psychology</li>

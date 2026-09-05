@@ -102,7 +102,7 @@
 	</section>
 
 	<section class="section">
-		<div style="display: flex; align-items: baseline; gap: 1rem; margin-bottom: 1.5rem;">
+		<div class="section-heading-row">
 			<h2 style="margin-bottom: 0;">Posters/Poster Contributions</h2>
 			<span class="publication-venue" style="font-style: italic;">*: Posters ; #: Poster Contributions</span>
 		</div>
@@ -166,7 +166,7 @@
 		<h2>Current Research</h2>
 		<div class="entry">
 			<div class="entry-title">Research Scientist</div>
-			<div class="entry-subtitle"><a href="https://sciminds.ucsd.edu/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD (2025-Present)</div>
+			<div class="entry-subtitle"><a href="https://sciminds.studio/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD (2025-Present)</div>
 			<div class="entry-description">
 				Lead projects to build computational models to understand and predict learning mechanisms, and to develop online platforms 
 				for better and more robust research. Create and utilize game platforms as simulated environments for large multiplayer-scale 
@@ -227,3 +227,13 @@
 		</div>
 	</section>
 </div>
+
+<style>
+	.section-heading-row {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: baseline;
+		gap: 0.25rem 1rem;
+		margin-bottom: 1.5rem;
+	}
+</style>

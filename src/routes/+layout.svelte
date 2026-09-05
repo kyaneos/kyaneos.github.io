@@ -84,7 +84,17 @@
 
 	.nav-separator {
 		color: #999;
-		margin: 0 1rem;
+		margin: 0 0.5rem;
+	}
+
+	@media (max-width: 768px) {
+		.nav-name {
+			font-size: 1.1rem;
+		}
+
+		.nav-separator {
+			display: none;
+		}
 	}
 
 	.nav-links i {
