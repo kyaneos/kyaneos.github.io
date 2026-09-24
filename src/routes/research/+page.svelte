@@ -53,7 +53,7 @@
 		<p>
 			My research aims to apply cognitive, educational, social psychology, and user experience design to improve learning experiences
 			and technologies. I build computational models to predict the mechanisms of learning in social and educational contexts,
-			with a focus on Theory of Mind,reputation, knowledge structures, and collaboration, and I engineer online platforms required to conduct 
+			with a focus on Theory of Mind, reputation, knowledge structures, and collaboration, and I engineer online platforms required to conduct 
 			this research at scale. I develop web applications and multiplayer games for large-scale, naturalistic studies of social dynamics 
 			and collaborative learning. These platforms are built to both serve my specific research questions and to function as generalizable 
 			tools that make online experimental methods more accessible and efficient for other researchers.
@@ -165,8 +165,22 @@
 	<section class="section">
 		<h2>Current Research</h2>
 		<div class="entry">
+			<div class="entry-title">PhD, Experimental Psychology</div>
+			<div class="entry-subtitle"><a href="https://sciminds.studio/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD (2026-Present)</div>
+			<div class="entry-description">
+				Studying how social information is transmitted and transformed as it passes between people, combining
+				naturalistic experimental methods with web development, simulations, and game design.
+				<br>
+				Advisor: Dr. Eshin Jolly, PhD.
+			</div>
+		</div>
+	</section>
+
+	<section class="section">
+		<h2>Previous Research</h2>
+		<div class="entry">
 			<div class="entry-title">Research Scientist</div>
-			<div class="entry-subtitle"><a href="https://sciminds.studio/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD (2025-Present)</div>
+			<div class="entry-subtitle"><a href="https://sciminds.studio/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD (2025-2026)</div>
 			<div class="entry-description">
 				Lead projects to build computational models to understand and predict learning mechanisms, and to develop online platforms 
 				for better and more robust research. Create and utilize game platforms as simulated environments for large multiplayer-scale 
@@ -178,7 +192,7 @@
 		</div>
 		<div class="entry">
 			<div class="entry-title">Research Assistant</div>
-			<div class="entry-subtitle"><a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a> @ UCSD (2024-Present)</div>
+			<div class="entry-subtitle"><a href="https://www.lime-lab-ucsd.com/" target="_blank" rel="noopener noreferrer">LIME Lab</a> @ UCSD (2024-2025)</div>
 			<div class="entry-description">
 				Working with graduate students and honors students on multiple research projects investigating
 				preconceptions and learning, judgements of learning during restudy vs. retrieval practice,
@@ -189,10 +203,6 @@
 				Project Leads: Inez Zung, Alejandro Carranza, Hana Nguyen
 			</div>
 		</div>
-	</section>
-
-	<section class="section">
-		<h2>Previous Research</h2>
 		<div class="entry">
 			<div class="entry-title">Research Assistant</div>
 			<div class="entry-subtitle"><a href="https://pilegard.ucsd.edu/psilab" target="_blank" rel="noopener noreferrer">PSI Lab</a> @ UCSD (2024)</div>
