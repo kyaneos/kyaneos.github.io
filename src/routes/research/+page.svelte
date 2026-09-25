@@ -184,10 +184,10 @@
 			<div class="entry-title">Research Scientist</div>
 			<div class="entry-subtitle"><a href="https://sciminds.studio/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD (2025-2026)</div>
 			<div class="entry-description">
-				Built the lab's online research infrastructure ahead of starting the PhD: experiment web apps,
-				multiplayer game environments for large-scale studies of learning and social behavior, and reusable
-				templates and tools for the rest of the lab. Picked up most of the engineering side here, including
-				Svelte, PocketBase, and deployment.
+				Studied social cognition, designing and running experiments end to end: built the study pipelines,
+				collected and processed the data, and ran the analyses. As one of the first two members of the lab,
+				contributed to its research infrastructure and built internal tools for running studies online.
+				Attended and presented at conferences.
 				<br>
 				PI: Dr. Eshin Jolly, PhD.
 			</div>
