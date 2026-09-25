@@ -59,6 +59,11 @@
 			<div class="entry-title">PhD, Experimental Psychology</div>
 			<div class="entry-subtitle">University of California San Diego (2026-Present)</div>
 			<div class="entry-description">
+				Lead projects to build computational models to understand and predict learning mechanisms, and to develop online platforms 
+				for better and more robust research. Create and utilize game platforms as simulated environments for large multiplayer-scale 
+				studies on cognition, behavior, learning tools, social dynamics, and collaborative learning. Develop general tools, frameworks, 
+				and templates to make the research process technically easier and more accessible.
+				<br>
 				Advisor: Eshin Jolly, PhD, Cognitive Neuroscience, Assistant Professor of Psychology - UC San Diego
 				<br>
 				<a href="https://sciminds.studio/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD
