@@ -168,8 +168,10 @@
 			<div class="entry-title">PhD, Experimental Psychology</div>
 			<div class="entry-subtitle"><a href="https://sciminds.studio/" target="_blank" rel="noopener noreferrer">SciMinds Research Studio</a> @ UCSD (2026-Present)</div>
 			<div class="entry-description">
-				Studying how social information is transmitted and transformed as it passes between people, combining
-				naturalistic experimental methods with web development, simulations, and game design.
+				Lead projects to build computational models to understand and predict learning mechanisms, and to develop online platforms 
+				for better and more robust research. Create and utilize game platforms as simulated environments for large multiplayer-scale 
+				studies on cognition, behavior, learning tools, social dynamics, and collaborative learning. Develop general tools, frameworks, 
+				and templates to make the research process technically easier and more accessible.
 				<br>
 				Advisor: Dr. Eshin Jolly, PhD.
 			</div>
