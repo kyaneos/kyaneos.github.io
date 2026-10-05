@@ -38,7 +38,7 @@
 
 	function formatAuthors(authors) {
 		if (!authors) return '';
-		return authors.replace('Moran, J.', '<strong>Moran, J.</strong>');
+		return authors.replace(/(Bonagura )?Moran, J\./, (m) => `<strong>${m}</strong>`);
 	}
 </script>
 
@@ -92,7 +92,7 @@
 			{/each}
 		{:else}
 			<div class="entry">
-				<div class="entry-title">Moran, J., Jolly, E. (in prep). Transmission and Transformation of Social Reputations in Serial Reproduction.</div>
+				<div class="entry-title">Bonagura Moran, J., Jolly, E. (in prep). Transmission and Transformation of Social Reputations in Serial Reproduction.</div>
 				<div class="entry-subtitle">Manuscript in preparation</div>
 				<div class="publication-links">
 					<a href="https://github.com/kyaneos/telephone" target="_blank" rel="noopener noreferrer">Experiment Repo</a>
